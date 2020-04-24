@@ -1,0 +1,24 @@
+/* Slider Styling */
+
+.rotated-right{
+  transform: rotate(-90deg) !important;
+}
+
+.rotated-left{
+  transform: rotate(90deg) !important;
+}
+.slick-current{
+  outline: none !important;
+  border: none !important;
+  color: brown;
+  user-select: none !important
+}
+
+
+*:focus {
+    outline: none;
+}
+
+.slick-prev, .slick-next{
+    top:60%;
+}

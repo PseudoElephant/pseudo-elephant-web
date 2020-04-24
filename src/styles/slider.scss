@@ -1,0 +1,15 @@
+.main-slider{
+    display: flex;
+    align-items: center;
+    .card {
+        flex: 1;
+    }
+}
+
+
+.slider-wrapper{
+    position: relative;
+    max-width: 200px;
+    margin: 0 auto;
+    background: red;
+}

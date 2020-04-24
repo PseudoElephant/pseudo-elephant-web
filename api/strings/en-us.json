@@ -1,0 +1,20 @@
+{
+  "PROJECT_NOT_FOUND": "The project <{}> was not found.",
+  "PROJECT_WITH_NAME_EXISTS": "The project with name <{}> already exists.",
+  "PROJECT_ERROR_INSERTING": "There was an internal error while inserting.",
+  "PROJECT_REMOVED": "The project <{}> was removed.",
+  "PROJECT_INCORRECT_ARGUMENTS": "The project has incorrect arguments.",
+  "AUTH_INVALID_CREDENTIALS": "Invalid credentials.",
+  "JWT_EXPIRED_TOKEN": "The token has expired.",
+  "JWT_INVALID_TOKEN": "Signature verification failed.",
+  "JWT_UNAUTHORIZED": "Authorization required.",
+  "JWT_NEED_FRESH": "Fresh token required.",
+  "JWT_REVOKED": "Token has been revoked.",
+  "UNKNOWN_ERROR": "Unknown error.",
+  "COMMENTS_NOT_FOUND": "No comments where found.",
+  "QUERY_VALIDATION_ERROR": "Value should be between <{}> and <{}>",
+  "BLOG_NOT_FOUND": "Blog was not found.",
+  "BLOG_ERROR_INSERTING": "There was an internal error while inserting.",
+  "BLOG_ALREADY_EXISTS": "The blog with the name <{}> already exists.",
+  "BLOG_REMOVED": "The blog <{}> was removed."
+}

@@ -1,0 +1,3 @@
+"""
+Root of the application
+"""
